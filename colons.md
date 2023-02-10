@@ -1,4 +1,4 @@
-Clons can be used to align columns.
+Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
